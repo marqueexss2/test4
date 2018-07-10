@@ -10,7 +10,7 @@ http://example.com
 (xxx)[javascript://www.com]
 
 (xxx)[javascript&colon;//www.com]
-
+x
 
 (xxx)[javascript:www.com]
 
