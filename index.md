@@ -3,6 +3,7 @@ hxxp://www.com
 http://example.com
 
 (xxx)[hxxp://www.com]
+(xxx)[hxxp&colon;//www.com]
 (xxx)[http&colon;//www.com]
 (xxx)[http://www.com]
 
